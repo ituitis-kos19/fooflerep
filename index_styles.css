@@ -1,0 +1,20 @@
+<style>
+head
+{
+}
+body.bodyy
+{
+	background-image: url("https://afremov.com/images/product/PARIS-OF-MY-DREAMS.jpg");
+	background-position : right-top;	
+}	
+table.main_table
+{
+	color: red;
+	width : 500px;
+	height : 300px;
+	border-collapse : collapse;	 
+	border-style : double;
+	border-width : 10px;
+	border-color : #FF0000;
+}
+</style>
