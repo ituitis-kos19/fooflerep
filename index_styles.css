@@ -5,11 +5,12 @@ head
 body.bodyy
 {
 	background-image: url("https://afremov.com/images/product/PARIS-OF-MY-DREAMS.jpg");
-	background-position : right-top;	
+	background-position : le-top;	
 }	
 table.main_table
 {
-	color: red;
+	background-color : #00FF80;
+	color: #FFFFFF;
 	width : 500px;
 	height : 300px;
 	border-collapse : collapse;	 

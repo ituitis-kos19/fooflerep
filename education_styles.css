@@ -1,0 +1,26 @@
+<styles>
+head
+{
+}
+
+
+body	
+{
+	background-color : #00FF0050;
+	color : #806F00;
+	text-align : center;
+	position :  center;
+	border : dotted;
+	width : 300px;
+}
+
+ul
+{
+	position :  center;
+	border : dotted;
+	width : 100px;
+}
+
+
+
+</styles>
