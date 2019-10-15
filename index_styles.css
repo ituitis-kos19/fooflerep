@@ -5,17 +5,66 @@ head
 body.bodyy
 {
 	background-image: url("https://afremov.com/images/product/PARIS-OF-MY-DREAMS.jpg");
-	background-position : le-top;	
+	background-size : 100%;	
 }	
 table.main_table
 {
-	background-color : #00FF80;
-	color: #FFFFFF;
-	width : 500px;
-	height : 300px;
-	border-collapse : collapse;	 
-	border-style : double;
-	border-width : 10px;
+	margin : auto; 
+	background-color : #1F4800; 
+	color: #000000; 
+		width : 500px; 
+	height : 300px; 
+	border-collapse : none; 
+	border-style : double; 
+	border-width : 10px; 
 	border-color : #FF0000;
 }
+tr.row_1
+{
+	background-color : #EE4314;
+	border-color : #FF0000;
+	color : #6F1AC4;
+	font-style : oblique;
+	font-weight : bold ; 
+	
+}
+
+td.row_1_col_1
+{
+	border-color : #FF0000;
+}
+
+tr.row_2
+{
+}
+a.education_cell
+{
+	text-decoration : none;
+	color : red;
+}
+
+table.my_sites
+{
+	margin : auto;
+	border-width : 5px;
+	border-collapse : none;
+	border-color : #FF0000A0;
+	border-style : dotted;
+}
+img.face_png
+{
+	width : 30px;
+	height : 30px;
+}
+img.insta_png
+{
+	width : 40px;
+	height : 30px;
+}
+img.twitter_png
+{
+	width : 30px;
+	height : 30px;
+}
+
 </style>

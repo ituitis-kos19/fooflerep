@@ -16,11 +16,15 @@ body
 
 ul
 {
-	position :  center;
+	margin :  auto;
 	border : dotted;
 	width : 100px;
 }
-
+img.fl_png
+{
+	width : 100px;
+	height : 120px; 
+}
 
 
 </styles>
